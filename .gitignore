@@ -4,6 +4,10 @@
 # Log file
 *.log
 
+# JAR файлы (кроме библиотек в lib/)
+*.jar
+!lib/*.jar
+
 # BlueJ files
 *.ctxt
 
